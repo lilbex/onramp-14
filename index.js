@@ -6,4 +6,4 @@ if (c > 5) {
   console.log('I am the new programmer in town')
 } else{
   console.log('I am only a newbie guys')
-}
+} 
